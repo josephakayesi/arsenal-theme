@@ -24,4 +24,4 @@ TypeScript, JavaScript, Python, CSS, HTML, JSON, Markdown, and more.
 ## Feedback
 
 Found a bug or want to suggest an improvement?
-Open an issue on [GitHub](https://github.com/josephakakyesi/arsenal-dark-theme).
+Open an issue on [GitHub](https://github.com/josephakayesi/arsenal-dark-theme).
