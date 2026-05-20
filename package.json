@@ -1,0 +1,33 @@
+{
+  "name": "arsenal-dark-theme",
+  "displayName": "Arsenal Dark",
+  "description": "A dark theme inspired by Arsenal FC",
+  "icon": "assets/preview.png",
+  "version": "1.0.0",
+  "publisher": "josephakayesi",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "arsenal",
+    "dark",
+    "theme",
+    "red"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/josephakayesi/arsenal-dark-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arsenal Dark",
+        "uiTheme": "vs-dark",
+        "path": "./arsenal-dark-color-theme.json"
+      }
+    ]
+  }
+}
