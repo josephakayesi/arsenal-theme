@@ -1,7 +1,7 @@
 {
-  "name": "arsenal-dark-theme",
-  "displayName": "Arsenal Dark",
-  "description": "A dark theme inspired by Arsenal FC",
+  "name": "arsenal-theme",
+  "displayName": "Arsenal Theme",
+  "description": "Dark and light themes inspired by Arsenal FC",
   "icon": "assets/preview.png",
   "version": "1.0.0",
   "publisher": "josephakayesi",
@@ -14,12 +14,13 @@
   "keywords": [
     "arsenal",
     "dark",
+    "light",
     "theme",
     "red"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/josephakayesi/arsenal-dark-theme"
+    "url": "https://github.com/josephakayesi/arsenal-theme"
   },
   "contributes": {
     "themes": [
@@ -27,6 +28,11 @@
         "label": "Arsenal Dark",
         "uiTheme": "vs-dark",
         "path": "./arsenal-dark-color-theme.json"
+      },
+      {
+        "label": "Arsenal Light",
+        "uiTheme": "vs",
+        "path": "./arsenal-light-color-theme.json"
       }
     ]
   }
