@@ -2,22 +2,21 @@
 
 Dark and light themes for Visual Studio Code inspired by Arsenal FC.
 
-Built around the club's iconic colours:
-
-- **Gunners Red** — keywords, UI chrome
-- **Gold** — strings, decorators
+Built around the club's iconic colours — **Gunners Red** for keywords and UI chrome, **Gold** for strings and decorators.
 
 ## Themes
 
-| Arsenal Dark | Arsenal Light |
-|:---:|:---:|
-| ![Arsenal Dark](assets/preview.gif) | ![Arsenal Light](assets/preview-light.gif) |
-
 ### Arsenal Dark
+
 Deep red-black backgrounds with vibrant red and gold accents.
 
+![Arsenal Dark Preview](assets/preview.gif)
+
 ### Arsenal Light
+
 Warm white backgrounds with the same Arsenal red and gold palette, adapted for bright environments.
+
+![Arsenal Light Preview](assets/preview-light.gif)
 
 ## Installation
 
